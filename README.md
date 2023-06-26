@@ -7,7 +7,8 @@
   learning and development, participating in courses
   and projects to expand and refine my skills.
 </p>
-- 🌱 I’m currently learning SpringBoot, ASP.NET, Docker, databases, etc.
+
+- 🌱 I’m currently learning backend technologies more deeper, including frameworks, databases, and DevOps tools.
 
 - 👨‍💻 All of my projects are available [here](http://thiagoqua.ar)
 
