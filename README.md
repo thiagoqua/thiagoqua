@@ -8,7 +8,7 @@
   and projects to expand and refine my skills.
 </p>
 
-- 🌱 I’m currently learning backend technologies more deeper, including frameworks, databases, and DevOps tools.
+- 🌱 I’m currently learning backend technologies more deeper, including frameworks, languages, databases, and DevOps tools
 
 - 👨‍💻 All of my projects are available [here](http://thiagoqua.ar)
 
