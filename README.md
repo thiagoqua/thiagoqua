@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago Quaglia.</h1>
-<h3 align="center">A passionate junior backend-fullstack developer from Argentina.</h3>
+<h3 align="center">A passionate .NET backend developer from Argentina.</h3>
 
-<p>
-  Nowadays I’m looking for my first job experience in the software development’s area.
-  At the same time, I’m dedicated to continuous
-  learning and development, participating in courses
-  and projects to expand and refine my skills.
-</p>
-
-- 🌱 I’m currently learning backend technologies more deeper, including frameworks, languages, databases, and DevOps tools
+- 🌱 I’m currently working as a backend developer
 
 - 👨‍💻 All of my projects are available [here](http://thiagoqua.ar)
 
